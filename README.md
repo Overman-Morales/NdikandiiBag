@@ -10,30 +10,8 @@
 
 ## Description
 
-E-commerce con las funcionalidades de un CRUD, los datos e imagenes de los productos son consumidos desde una Api
-creada con JSON Server, el admin puede agregar, editar y eliminar productos.
+E-commerce con las funcionalidades de un CRUD, para comprar productos de nuestra StartUp
 
  ---
 
-## Datos para iniciar sesión
-
-Correo: Heric@alura.com
-
-contraseña: admin123
-
-## Preview
-
-![](https://i.imgur.com/JwLVrNI.jpg)
-
-# Agregar productos
-![](https://i.imgur.com/b4KjQXg.png)
-
-# Editar productos
-![](https://i.imgur.com/Qa3WOPw.png)
-
-# Eliminar productos
-![](https://i.imgur.com/417XCTA.png)
-
-
-## [ir a la pagina](https://alura-geek-page.netlify.app/index.html) 👈
 
